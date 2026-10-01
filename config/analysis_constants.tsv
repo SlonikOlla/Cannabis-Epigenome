@@ -1,0 +1,17 @@
+parameter	value
+reference_accession	GCF_029168945.1
+assembly	ASM2916894v1
+nuclear_sequences	17
+nuclear_bp	770269637
+window_bp	500
+canonical_windows	1540550
+repeat_poor_threshold	<0.20
+repeat_rich_threshold	>=0.80
+highconf_24nt_recurrence	>=10_of_19
+highconf_CHH_pct	>=10
+highconf_repeat_fraction	<0.20
+gene_flank_bp	2000
+chip_mapq	30
+chip_samtools_include_flag	2
+chip_samtools_exclude_flag	3340
+chip_pseudocount_CPM	0.1

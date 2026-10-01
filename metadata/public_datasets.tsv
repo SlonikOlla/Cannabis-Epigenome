@@ -1,0 +1,5 @@
+layer	study_accession	run_or_series	description
+WGBS	GSE79526	SRR3286258	Purple Kush whole-genome bisulfite sequencing
+smallRNA	PRJNA1013875	19 libraries	Cannabis small-RNA libraries used for 21/22/24-nt analyses
+ChIP-seq	PRJNA1128358	30 paired-end libraries	H3K4me3 H3K56ac H3K27me3 H2A.Z and inputs in trichome leaf stem
+RNA-seq	PRJNA1128734	9 libraries	Matched trichome leaf stem RNA-seq
