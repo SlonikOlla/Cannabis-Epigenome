@@ -3,14 +3,10 @@
 - [x] Release-preparation branch created.
 - [x] Paper 2 dataset metadata added.
 - [x] Core analysis constants documented.
-- [x] Draft v2.0.0 release notes added.
-- [ ] Add Supplementary Table S1 source data.
-- [ ] Add final Paper 2 custom scripts from the analysis workspace.
-- [ ] Add compact source tables for all final manuscript figures.
-- [ ] Add a software environment file with all exact package versions.
-- [ ] Update the root README to describe both Paper 1 and Paper 2.
-- [ ] Run validation and confirm no manuscript-private or large raw/intermediate files are included.
-- [ ] Create tag v2.0.0 from the validated commit.
-- [ ] Publish GitHub release.
-- [ ] Archive release in Zenodo.
-- [ ] Insert Zenodo DOI and GitHub release URL into manuscript Data Availability.
+- [x] Root README updated to describe Paper 1 and Paper 2.
+- [x] Result tables excluded from the release.
+- [x] Manuscript and rendered figures excluded from the release.
+- [ ] Merge release-preparation branch to main.
+- [ ] Publish GitHub release v2.0.0.
+- [ ] Confirm Zenodo archive and obtain the new version DOI.
+- [ ] Insert the v2.0.0 Zenodo DOI and GitHub release URL into the manuscript Data Availability section.
