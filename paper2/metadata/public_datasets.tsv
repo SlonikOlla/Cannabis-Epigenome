@@ -1,0 +1,7 @@
+layer	accession	role
+developmental_trichome_RNAseq	PRJNA560453	24 paired-end libraries; four developmental stages; six libraries per stage
+mature_RNAseq	PRJNA1128734	glandular trichome, vegetative leaf and stem transcriptomes
+ChIPseq	PRJNA1128358	H3K4me3, H3K27me3, H3K56ac, H2A.Z and matched input
+WGBS	GSE79526/GSM2096951/SRR3286258	baseline Purple Kush DNA methylation context
+smallRNA	PRJNA1013875	19 libraries; recurrent/fractional 24-nt siRNA context
+reference	GCF_029168945.1/ASM2916894v1	common Cannabis sativa genome assembly and RefSeq annotation
